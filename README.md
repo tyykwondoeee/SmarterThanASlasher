@@ -1,0 +1,2 @@
+# SmarterThanASlasher
+C++ horror quiz
